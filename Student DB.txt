@@ -1,0 +1,52 @@
+db.students.insert({
+"Students": 
+[
+{ "id": "217055372", "name": "Jay", "Year": "2018",  "Trimester": "T1", "Unit_enrolled": "SIT701", "Current_requisite": "No"},
+{ "id": "217055483", "name": "Jith", "Year": "2018", "Trimester": "T3", "Unit_enrolled": "SIT701", "Current_requisite": "No"},
+{ "id": "218055594", "name": "Jack", "Year": "2018", "Trimester": "T2", "Unit_enrolled": "SIT701", "Current_requisite": "No"},
+{ "id": "216055605", "name": "Bala", "Year": "2019", "Trimester": "T1", "Unit_enrolled": "SIT701", "Current_requisite": "No"},
+{ "id": "217055716", "name": "Bosch", "Year": "2018", "Trimester": "T3", "Unit_enrolled": "SIT701", "Current_requisite": "No"},
+{ "id": "217055827", "name": "Becky", "Year": "2018", "Trimester": "T2", "Unit_enrolled": "SIT701", "Current_requisite": "No"},
+{ "id": "219055938", "name": "John", "Year": "2019", "Trimester": "T1", "Unit_enrolled": "SIT701", "Current_requisite": "No"},
+{ "id": "217055049", "name": "Tony", "Year": "2019", "Trimester": "T1", "Unit_enrolled": "SIT701", "Current_requisite": "No"},
+{ "id": "217055150", "name": "Texan", "Year": "2018", "Trimester": "T2", "Unit_enrolled": "SIT701", "Current_requisite": "No"},
+{ "id": "217055261", "name": "Rakhe", "Year": "2018", "Trimester": "T1", "Unit_enrolled": "SIT701", "Current_requisite": "No"},
+
+{ "id": "217163672", "name": "Amit", "Year": "2019", "Trimester": "T1","Unit_enrolled": "SIT777", "Current_requisite": "No"},
+{ "id": "217274772", "name": "Jaden", "Year": "2018", "Trimester": "T2", "Unit_enrolled": "SIT777", "Current_requisite": "No"},
+{ "id": "217847072", "name": "Ankit", "Year": "2019", "Trimester": "T1","Unit_enrolled": "SIT777", "Current_requisite": "No"},
+{ "id": "217936173", "name": "Nick", "Year": "2018", "Trimester": "T3","Unit_enrolled": "SIT777", "Current_requisite": "No"},
+{ "id": "217743873", "name": "Fury", "Year": "2018", "Trimester": "T1","Unit_enrolled": "SIT777", "Current_requisite": "No"},
+{ "id": "217033772", "name": "Robert", "Year": "2018", "Trimester": "T1", "Unit_enrolled": "SIT777", "Current_requisite": "No"},
+{ "id": "217294075", "name": "Chris", "Year": "2019", "Trimester": "T1", "Unit_enrolled": "SIT777", "Current_requisite": "No"},
+{ "id": "217028072", "name": "Scarlett", "Year": "2018", "Trimester": "T2", "Unit_enrolled": "SIT777", "Current_requisite": "No"},
+{ "id": "217473273", "name": "Elizabeth", "Year": "2018", "Trimester": "T3", "Unit_enrolled": "SIT777", "Current_requisite": "No"},
+{ "id": "217384572", "name": "Loki", "Year": "2018", "Trimester": "T1", "Unit_enrolled": "SIT777", "Current_requisite": "No"},
+
+{ "id": "217057336", "name": "Hulk", "Year": "2018", "Trimester": "T2", "Unit_enrolled": "SIT764", "Current_requisite": "No"},
+{ "id": "217482937", "name": "Ironman", "Year": "2019", "Trimester": "T1", "Unit_enrolled": "SIT764", "Current_requisite": "No"},
+{ "id": "217059274", "name": "Captain", "Year": "2018", "Trimester": "T2", "Unit_enrolled": "SIT764", "Current_requisite": "No"},
+{ "id": "217056515", "name": "Thor", "Year": "2018", "Trimester": "T3", "Unit_enrolled": "SIT764", "Current_requisite": "No"},
+{ "id": "217936548", "name": "Mendon", "Year": "2018", "Trimester": "T1", "Unit_enrolled": "SIT764", "Current_requisite": "No"},
+{ "id": "217056179", "name": "Jaguar", "Year": "2019", "Trimester": "T1", "Unit_enrolled": "SIT764", "Current_requisite": "No"},
+{ "id": "217050258", "name": "Bently", "Year": "2018", "Trimester": "T1", "Unit_enrolled": "SIT764", "Current_requisite": "No"},
+{ "id": "217041593", "name": "Rolls", "Year": "2018", "Trimester": "T3", "Unit_enrolled": "SIT764", "Current_requisite": "No"},
+{ "id": "217053574", "name": "Chystler", "Year": "2018", "Trimester": "T2", "Unit_enrolled": "SIT764", "Current_requisite": "No"},
+{ "id": "217054591", "name": "Akhil", "Year": "2019", "Trimester": "T1", "Unit_enrolled": "SIT764", "Current_requisite": "No"},
+
+{ "id": "217659842", "name": "Emma", "Year": "2018", "Trimester": "T3", "Unit_enrolled": "SIT782", "Current_requisite": "No"},
+{ "id": "217365894", "name": "Jackson", "Year": "2018", "Trimester": "T1", "Unit_enrolled": "SIT782", "Current_requisite": "No"},
+{ "id": "217045921", "name": "Nathan", "Year": "2018", "Trimester": "T1", "Unit_enrolled": "SIT782", "Current_requisite": "No"},
+{ "id": "217087643", "name": "Zoe", "Year": "2018", "Trimester": "T2", "Unit_enrolled": "SIT782", "Current_requisite": "No"},
+{ "id": "217789456", "name": "Ruby", "Year": "2019", "Trimester": "T1", "Trimester": "T1", "Unit_enrolled": "SIT782", "Current_requisite": "No"},
+{ "id": "218963145", "name": "Ana", "Year": "2018", "Trimester": "T2", "Unit_enrolled": "SIT782", "Current_requisite": "No"},
+{ "id": "217654893", "name": "Hanna", "Year": "2019", "Trimester": "T1", "Unit_enrolled": "SIT782", "Current_requisite": "No"},
+{ "id": "217896542", "name": "Pulkit", "Year": "2018", "Trimester": "T3", "Unit_enrolled": "SIT782", "Current_requisite": "No"},
+{ "id": "217864795", "name": "Sahithi", "Year": "2018", "Trimester": "T2", "Unit_enrolled": "SIT782", "Current_requisite": "No"},
+{ "id": "217862314", "name": "Krithika", "Year": "2018", "Trimester": "T3", "Unit_enrolled": "SIT782", "Current_requisite": "No"},
+{ "id": "217759656", "name": "Nicole", "Year": "2018", "Trimester": "T1", "Unit_enrolled": "SIT782", "Current_requisite": "No"},
+{ "id": "217765495", "name": "Nun", "Year": "2019", "Trimester": "T1", "Unit_enrolled": "SIT782", "Current_requisite": "No"}
+
+]
+})
+
